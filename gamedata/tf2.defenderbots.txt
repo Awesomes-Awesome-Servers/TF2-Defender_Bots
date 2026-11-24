@@ -108,7 +108,7 @@
 			}
 			"CTFGameRules::IsUpgradeTierEnabled"
 			{
-				"windows"	"\x55\x8B\xEC\x81\xEC\xB4\x01\x00\x00\x83\x7D\x2A\x00"
+				"windows"	"\x55\x8B\xEC\x81\xEC\xD4\x01\x00\x00"
 				"linux"		"@_ZN12CTFGameRules20IsUpgradeTierEnabledEP9CTFPlayerii"
 			}
 			"CMannVsMachineUpgradeManager::LoadUpgradesFile"
